@@ -21,4 +21,4 @@ O deploy da plataforma, realizado com Heroku, pode ser acessado clicando em [Dep
 
 ## Documentação
 
-A documentação original da plataforma pode ser encontrada no [Pages oficial](https://victordeon.github.io/PGTBL/), pela [Wiki](https://github.com/VictorDeon/PGTBL/wiki), e o código fonto do projeto pode ser acessado no [repositório](https://github.com/VictorDeon/PGTBL), todos do TCC do aluno Victor Deon.
+A documentação original da plataforma pode ser encontrada no [Pages](https://victordeon.github.io/PGTBL/) ou na [Wiki](https://github.com/VictorDeon/PGTBL/wiki) do projeto original, e o código fonte pode ser acessado neste [repositório](https://github.com/VictorDeon/PGTBL). Estes artefatos e o projeto original são parte do TCC de autoria do ex-aluno Victor Deon.
