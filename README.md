@@ -22,3 +22,6 @@ O deploy da plataforma, realizado com Heroku, pode ser acessado clicando em [Dep
 ## Documentação
 
 A documentação original da plataforma pode ser encontrada no [Pages](https://victordeon.github.io/PGTBL/) ou na [Wiki](https://github.com/VictorDeon/PGTBL/wiki) do projeto original, e o código fonte pode ser acessado neste [repositório](https://github.com/VictorDeon/PGTBL). Estes artefatos e o projeto original são parte do TCC de autoria do ex-aluno Victor Deon.
+
+<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="200"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
+</p>
