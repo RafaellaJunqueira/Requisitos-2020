@@ -17,7 +17,7 @@ Este repositório tem por objetivo abrigar os documentos de engenharia de requis
 
 ## Acessos
 O deploy da plataforma, realizado com Heroku, pode ser acessado pelo link http://pgtbl-requisitos.herokuapp.com/
-A documentação criada nesta disciplina pode ser vista na wiki via https://rafaellajunqueira.github.io/PGTBL/#/
+<br>A documentação criada nesta disciplina pode ser vista na wiki via https://rafaellajunqueira.github.io/PGTBL/#/
 
 ## Documentação
 
