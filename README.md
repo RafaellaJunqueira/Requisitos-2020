@@ -14,39 +14,10 @@
 
 ## Sobre o projeto
 Este repositório tem por objetivo abrigar os documentos de engenharia de requisitos que serão elaborados pelo Grupo 3 da disciplina Requisitos de Software. O intuito dessa documentação é identificar novos requisitos para o projeto **PGTBL, Plataforma de Gerenciamento da metodologia ativa de aprendizado Team Based Learning**.
- 
-## Equipe
 
-</div>
-
-| Membro                        | Matrícula  | Github                                                     |
-|-------------------------------|------------|------------------------------------------------------------|
-| Rafaella Junqueira            | 16/0142628 | [@RafaellaJunqueira](https://github.com/RafaellaJunqueira) |
-| Ingrid Soares                 | 160125162  | [@ingrdst](https://github.com/ingrdst)                     |
-| João Victor de Oliveira Matos | 17/0013987 | [@joao15victor08](https://github.com/joao15victor08)       |
-
-## Instalação do ambiente
-Para rodar a plataforma em sua máquina local, siga os seguintes passos:
-
-<br> **1. Clonar o repositório**
-```
-git clone https://github.com/RafaellaJunqueira/PGTBL.git
-```
-
-<br> **2. Construir o contêiner**
-<br> Certifique-se de estar dentro da pasta PGTBL e, então, execute os comandos para construir e subir o contêiner, respectivamente
-```
-sudo docker-compose up --build
-```
-```
-sudo docker-compose up
-```
-
-<br> **3. Acessar a plataforma**
-<br> Após construído e levantado o contêiner, acesse a plataforma PGTBL digitando o seguinte localhost na aba do navegador
-```
-http://127.0.0.1/
-```
+## Acessos
+O deploy da plataforma, realizado com Heroku, pode ser acessado pelo link http://pgtbl-requisitos.herokuapp.com/
+A documentação criada nesta disciplina pode ser vista na wiki via https://rafaellajunqueira.github.io/PGTBL/#/
 
 ## Documentação
 
